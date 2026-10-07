@@ -1,5 +1,4 @@
-package com.example.demo;
-
+package com.example.hydra_beckend;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;

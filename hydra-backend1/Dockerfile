@@ -24,3 +24,4 @@ RUN ./mvnw clean package -DskipTests
 # Run the application
 # Run the application
 CMD ["java", "-jar", "target/hydra-backend-0.0.1-SNAPSHOT.jar"]
+
